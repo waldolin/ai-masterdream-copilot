@@ -176,6 +176,7 @@ before running the demo, check the basic requirements
 node -version
 python -version
 ```
+Remember set -api on stable diffusion
 
 ```bash
 set COMMANDLINE_ARGS=--api
