@@ -6,10 +6,6 @@ This is a demo of AI MasterDream Copilot.
 Watch this tutorial to get started with the project:(Click the picture)
 [![Watch the video](./images/demo.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Or directly watch it below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Abstract
 This project uses AMD graphics cards and TensorFlow technology to achieve efficient image generation, reasoning, and text generation functions. The system uses Node-RED workflows for low-code control and runs edge computing on an Arduino development board. By combining Angular and Arduino APP, the conversational user interface design of multiple projects has been realized.
@@ -76,11 +72,14 @@ The dataset was divided into training, validation, and testing sets with a ratio
 I have trained the LoRA tuning model using "Gemma 2: 2B" and "Llama 3.1: 8B", as well as "Chinese Llama 3: TAIDE-LX-8B". Initially, I intended to use "Gemma 2: 9B", but due to power failures for three times and the delay of shipping delivery, I had no choice but to upload the LoRA tuning model in Gemma 2B with tears in my eyes.
 ![Training Process](./images/train.png)
 
+I train with colab on T4 16G for 2 hours,and it will train around 500 epochs. 
+
+
 ## Training Guide and Model Files
 
 For detailed instructions on how to train the model using LORA tuning, please refer to the training guide provided in the following Jupyter Notebook:
 
-- **Training Guide**: [lora_tuning.ipynb](./path/to/lora_tuning.ipynb)
+- **Training Guide**: [lora_tuning.ipynb](./lora_tuning2_ipynb.ipynb)
 
 ### Model Files
 - **Weight File**: `my_model_weights.weights`
@@ -204,6 +203,8 @@ set the deployment on the red button, check it on the dashboard.
 If you have installed the basic requirements or you do not open the stable duffsion with api, it will show a bug when generating.
 
 ![NODE-RED guide](./images/7.png)
+
+Last but not least,I must have Special thanks for
 
 ## Special thanks to
 - AMD
