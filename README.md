@@ -184,6 +184,19 @@ set COMMANDLINE_ARGS=--api
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
 
+![Training Process](./images/5.png)
+If you have not installed the requirements, it will lack some nodes.
+
+![Training Process](./images/6.png)
+If you have installed the requirements, it will show up when importing jsonl.
+
+set the deployment on the red button, check it on the dashboard. 
+![Training Process](./images/8.png)
+
+If you have installed the basic requirements or you do not open the stable duffsion with api, it will show a bug when generating.
+
+![Training Process](./images/7.png)
+
 ## Special thanks to
 - AMD
 - HACKSTER
