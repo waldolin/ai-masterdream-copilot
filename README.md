@@ -137,6 +137,7 @@ This is a demo for building a simple web service using Flask. Below is an exampl
         app.run(debug=True)
     ```
 
+
 3. **Run the Flask Application**: Execute the following command in the terminal to start the Flask server:
 
     ```bash
@@ -155,7 +156,13 @@ This is a demo for building a simple web service using Flask. Below is an exampl
 
     This setup allows you to make predictions from models saved in two different formats and easily make interface calls over the network.
 
+
+## Or load our model on Lm studio to try our functions
+![LOAD MODEL](./images/9.png)
+
 ## This is a demo of models of AI MasterDream Copilot.  If You Want to Run a whole Test, Make Sure You Install the Requirements
+
+
 
 ```bash
 npm install -g --unsafe-perm node-red
@@ -184,18 +191,18 @@ set COMMANDLINE_ARGS=--api
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
 
-![Training Process](./images/5.png)
+![NODE-RED guide](./images/5.png)
 If you have not installed the requirements, it will lack some nodes.
 
-![Training Process](./images/6.png)
+![NODE-RED guide](./images/6.png)
 If you have installed the requirements, it will show up when importing jsonl.
 
 set the deployment on the red button, check it on the dashboard. 
-![Training Process](./images/8.png)
+![NODE-RED guide](./images/8.png)
 
 If you have installed the basic requirements or you do not open the stable duffsion with api, it will show a bug when generating.
 
-![Training Process](./images/7.png)
+![NODE-RED guide](./images/7.png)
 
 ## Special thanks to
 - AMD
