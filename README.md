@@ -2,10 +2,12 @@
 
 This is a demo of AI MasterDream Copilot.
 
+ 
 ## Video Tutorial
 Watch this tutorial to get started with the project:(Click the picture)
 [![Watch the video](./images/demo.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+Due to the delay of shipping delivery and unexpectiable problem of power failures for three times and earthquake (rate: 5.7) on 8/15 near our places, the video will upload as soon as possilbe!
 
 ## Abstract
 This project uses AMD graphics cards and TensorFlow technology to achieve efficient image generation, reasoning, and text generation functions. The system uses Node-RED workflows for low-code control and runs edge computing on an Arduino development board. By combining Angular and Arduino APP, the conversational user interface design of multiple projects has been realized.
@@ -63,17 +65,24 @@ I have used the datasets of prompt words training with:
 - 600 samples (60 samples each for 4 functions, including some prompts I designed before, and 10 samples each for 40 styles, covering prompt words generator of intelligent optimization, style transfer, and image enhancement).
 - 5K samples (60 samples each for 4 functions and prompt words generator, plus 100 samples each for 40 styles).
 
-- [11K and 110K Booru Tag Autocompletion for A1111 in Traditional Chinese, Japanese, and English](https://github.com/waldolin/a1111-sd-webui-tagcomplete-TW)
+- [10K and 110K Booru Tag Autocompletion for A1111 in Traditional Chinese, Japanese, and English](https://github.com/waldolin/a1111-sd-webui-tagcomplete-TW)
 
 - [900k Diffusion Prompts Dataset](https://www.kaggle.com/datasets/tanreinama/900k-diffusion-prompts-dataset?select=diffusion_prompts.csv)
 
 The dataset was divided into training, validation, and testing sets with a ratio of 70%/15%/15%.
 
-I have trained the LoRA tuning model using "Gemma 2: 2B" and "Llama 3.1: 8B", as well as "Chinese Llama 3: TAIDE-LX-8B". Initially, I intended to use "Gemma 2: 9B", but due to power failures for three times and the delay of shipping delivery, I had no choice but to upload the LoRA tuning model in Gemma 2B with tears in my eyes.
+Before fine-tunning the model, I try to increase the Label prediction accuracy step by step. I cleaned up the nsfw_content.  I have asked specialists of Google many times
+
+![failure](./images/10.png)
+
+As you can see the failure of picture, it will cost me around 4 hours to wait for labelling on the datasets and so on.
+
+I have trained the LoRA tuning model using "Gemma 2: 2B" and "Llama 3.1: 8B", as well as "Chinese Llama 3: TAIDE-LX-8B". Initially, I intended to use "Gemma 2: 9B", but due to the delay of shipping delivery and power failures for three times, I had no choice but to upload the LoRA tuning model in Gemma 2B with tears in my eyes.
+
 ![Training Process](./images/train.png)
 
-I train with colab on T4 16G for 2 hours,and it will train around 500 epochs. 
-
+I train the samples with colab on T4 16G for 2 hours,and it will train around 500 epochs.  It will run faster on AMD GPUs of W7900 on linux operating system.  It can not run on windows because of the tensorflow-text version is 2.10.1.  It is not supported for update on windows.  When fine-tunning the model, it need the version of keras>=3 ,tensorflow and tensorflow-text.
+  
 
 ## Training Guide and Model Files
 
