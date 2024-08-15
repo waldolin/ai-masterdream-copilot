@@ -157,7 +157,7 @@ This is a demo for building a simple web service using Flask. Below is an exampl
     This setup allows you to make predictions from models saved in two different formats and easily make interface calls over the network.
 
 
-## Or load our model on Lm studio to try our functions
+## Or load our lora-tunning model on Lm studio to try our functions
 ![LOAD MODEL](./images/9.png)
 
 ## This is a demo of models of AI MasterDream Copilot.  If You Want to Run a whole Test, Make Sure You Install the Requirements
