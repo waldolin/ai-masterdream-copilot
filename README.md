@@ -4,10 +4,16 @@ This is a demo of AI MasterDream Copilot.
 
  
 ## Video Tutorial
-Watch this tutorial to get started with the project:(Click the picture)
-[![Watch the video](./images/demo.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Watch this tutorial to get started with the project:
 
-Due to the delay of shipping delivery and unexpectiable problem of power failures for three times and earthquake (rate: 5.7) on 8/15 near our places, the video will upload as soon as possilbe!
+[![Watch the video](./images/16.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[![Watch the video](./images/15.png)](https://www.youtube.com/watch?v=8ONP7jlgQms)
+
+https://youtu.be/8ONP7jlgQms(Click the picture or link)
+
+Due to the delay of shipping delivery and unexpectiable problem of power failures for three times and earthquake (rate: 5.7) on 8/15 near our places, the more video will upload as soon as possilbe!
+
 
 ## Abstract
 This project uses AMD graphics cards and TensorFlow technology to achieve efficient image generation, reasoning, and text generation functions. The system uses Node-RED workflows for low-code control and runs edge computing on an Arduino development board. By combining Angular and Arduino APP, the conversational user interface design of multiple projects has been realized.
