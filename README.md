@@ -175,8 +175,25 @@ This is a demo for building a simple web service using Flask. Below is an exampl
 
 
 ## Or load our lora-tunning model on Lm studio to try our functions
+
 ![LOAD MODEL](./images/9.png)
 choose the button "select a model to load" and choose our lora-tunning model
+
+
+Download and put in the path of folder. Please check it like the path "C:\Users\yourusername\.cache\lm-studio\models"
+
+![LOAD MODEL](./images/19.png)
+
+
+That will show in the model list and choose it!
+
+![LOAD MODEL](./images/18.png)
+
+
+import jsonl and use GPU acceleration
+
+![LOAD MODEL](./images/11.png)
+
 
 ## This is a demo of models of AI MasterDream Copilot.  If You Want to Run a whole Test, Make Sure You Install the Requirements
 
