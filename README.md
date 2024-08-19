@@ -239,7 +239,7 @@ If you have installed the requirements, it will show up when importing jsonl.
 set the deployment on the red button, check it on the dashboard. 
 ![NODE-RED guide](./images/8.png)
 
-If you have installed the basic requirements or you do not open the stable duffsion with api, it will show a bug when generating.
+If you do not install the basic requirements or you do not open the stable duffsion with api, it will show a bug when generating.
 
 ![NODE-RED guide](./images/7.png)
 
