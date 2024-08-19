@@ -53,6 +53,8 @@ Explore the AI MasterDream Copilot Playground built with Angular and Google Gemi
 
 [AI MasterDream Copilot Playground by Angular](https://github.com/waldolin/ai-playground-angular)
 
+use your gemini key in \src\environments\environment.ts
+
 ![Project Overview](./images/20.png)
 ![Project Overview](./images/21.png)
 ![Project Overview](./images/22.png)
