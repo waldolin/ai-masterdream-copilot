@@ -184,7 +184,7 @@ This is a demo for building a simple web service using Flask. Below is an exampl
 choose the button "select a model to load" and choose our lora-tunning model
 
 
-Download and put in the path of folder. Please check it like the path "C:\Users\yourusername\.cache\lm-studio\models"
+Download and put in the path of folder. Please check it like the path "C:\Users\"yourusername"\ .cache\lm-studio\models"
 
 ![LOAD MODEL](./images/19.png)
 
