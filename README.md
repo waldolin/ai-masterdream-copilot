@@ -194,7 +194,7 @@ That will show in the model list and choose it!
 ![LOAD MODEL](./images/18.png)
 
 
-import jsonl and use GPU acceleration
+import jsonl and use GPU acceleration by clicking GPU offload as MAX as you can.
 
 ![LOAD MODEL](./images/11.png)
 
