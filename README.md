@@ -247,9 +247,9 @@ What's the difference of AI MasterDream Copilot?
 As you can see it, the difference of generating pictures.
 
 THE Whole designed Demo of AI MasterDream Copilot
-![the demo](./images/demo.JPG) 
-![the demo2](./images/620520_0.JPG) 
-![the demo3](./images/620521_0.JPG) 
+![the demo](./images/demo.jpg) 
+![the demo2](./images/620520_0.jpg) 
+![the demo3](./images/620521_0.jpg) 
 
 Last but not least,I must have Special thanks for AMD.
 The AMD Pervasive AI Developer Contest was instrumental in the successful realization of this project. The platform, resources, and support it offered allowed us to not only launch and test our work but also to refine and enhance it. This contest fostered innovation, collaboration, and significant advancements in AI development. 
