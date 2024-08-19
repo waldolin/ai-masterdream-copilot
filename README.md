@@ -206,7 +206,7 @@ import jsonl and use GPU acceleration by clicking GPU offload as MAX as you can.
 ```bash
 npm install -g --unsafe-perm node-red
 npm install npm -g install
-npm install @angular/cli@18.0.1
+npm install @angular/cli@17.0.0
 npm install @vue/cli@5.0.8
 npm install create-react-app@5.0.1
 npm install express@4.19.2
