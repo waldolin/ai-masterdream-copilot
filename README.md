@@ -54,6 +54,8 @@ Explore the AI MasterDream Copilot Playground built with Angular and Google Gemi
 [AI MasterDream Copilot Playground by Angular](https://github.com/waldolin/ai-playground-angular)
 
 ![Project Overview](./images/20.png)
+![Project Overview](./images/21.png)
+![Project Overview](./images/22.png)
 
 ## Demo
 
