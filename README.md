@@ -284,13 +284,19 @@ and Install APK released for cell phone or Raspberry Pi 4B with ours AOSP
 
  This is an AOSP (Android 13) built for Raspberry Pi 4 Model B, Pi 400, and Compute Module 4. Running this version requires a Pi 4 model with at least 2GB of RAM. sd card needs 8GB.
 
+Update before install
 ```bash
 sudo apt update
 sudo apt full-upgrade
 ```
+
+Install node-red
+
 ```bash 
 <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 ```
+
+Install the apk and the requirement before reboot
 
 ```bash
 sudo reboot
