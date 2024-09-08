@@ -251,7 +251,7 @@ If the version is conflict, it can not use API.
 
 It will like this picutre of BUG.
 
-Try to lower version or cancel update of start.bat
+Try to lower version or cancel update of start.bat without auto-update
 
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
@@ -281,6 +281,7 @@ THE Whole designed Demo of AI MasterDream Copilot
 
 and Install APK released for cell phone or Raspberry Pi 4B with ours AOSP
 [AOSP demo](https://drive.google.com/drive/folders/1DGVvx6CjEIN8CoiIwBtS4vgT126h_dfq?usp=sharing)
+
  This is an AOSP (Android 13) built for Raspberry Pi 4 Model B, Pi 400, and Compute Module 4. Running this version requires a Pi 4 model with at least 2GB of RAM. sd card needs 8GB.
 
 ```bash
