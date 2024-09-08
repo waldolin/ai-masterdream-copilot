@@ -296,12 +296,13 @@ Install node-red
 <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 ```
 
-Install the apk and the requirement before reboot
+ reboot
 
 ```bash
 sudo reboot
 
 ```
+Install the apk and the requirements of Software packages before using AI Masterdream Copilot
 
 
 Last but not least,I must have Special thanks for AMD.
