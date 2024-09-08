@@ -229,8 +229,34 @@ Remember set -api on stable diffusion
 ```bash
 set COMMANDLINE_ARGS=--api
 ```
+Remember set -api on Comfyui by clicking the setting
+
+![comfyui guide](./images/23.png)
+
+Click ENABLE Dev Mode Options
+
+![comfyui guide](./images/24.png)
+
+If you use the chinese version, it is like this.
+
+![comfyui guide](./images/25.png)
+
+And use API format
+
+![comfyui guide](./images/26.png)
+
+To use AI MasterDream copilot to have fun!
+
+If the version is conflict, it can not use API.
+
+It will like this picutre of BUG.
+
+Try to lower version or cancel update of start.bat
+
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
+
+Use NODERED with comfyui and stable diffusion in AI MasterDream copilot's app
 
 ![NODE-RED guide](./images/5.png)
 If you have not installed the requirements, it will lack some nodes.
@@ -252,6 +278,24 @@ THE Whole designed Demo of AI MasterDream Copilot
 ![the demo](./images/demo.jpg) 
 ![the demo2](./images/620520_0.jpg) 
 ![the demo3](./images/620521_0.jpg) 
+
+and Install APK released for cell phone or Raspberry Pi 4B with ours AOSP
+[AOSP demo](https://drive.google.com/drive/folders/1DGVvx6CjEIN8CoiIwBtS4vgT126h_dfq?usp=sharing)
+ This is an AOSP (Android 13) built for Raspberry Pi 4 Model B, Pi 400, and Compute Module 4. Running this version requires a Pi 4 model with at least 2GB of RAM. sd card needs 8GB.
+
+```bash
+sudo apt update
+sudo apt full-upgrade
+```
+```bash 
+<(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
+```
+
+```bash
+sudo reboot
+
+```
+
 
 Last but not least,I must have Special thanks for AMD.
 The AMD Pervasive AI Developer Contest was instrumental in the successful realization of this project. The platform, resources, and support it offered allowed us to not only launch and test our work but also to refine and enhance it. This contest fostered innovation, collaboration, and significant advancements in AI development. 
