@@ -88,7 +88,7 @@ Before fine-tunning the model, I try to increase the Label prediction accuracy s
 
 ![failure](./images/10.png)
 
-As you can see the failure of picture, it will cost me around 4 hours to wait for labelling on the datasets and so on.
+As you can see the failure of picture, it will cost me around 4 hours to wait for labelling on the datasets and so on.  I have asked the specialist of Google who say sometime it will fail by tuning, and he suggest me to upload the model for in-app purchase or service by calling to pay.
 
 I have trained the LoRA tuning model using "Gemma 2: 2B" and "Llama 3.1: 8B", as well as "Chinese Llama 3: TAIDE-LX-8B". Initially, I intended to use "Gemma 2: 9B", but due to the delay of shipping delivery and power failures for three times, I had no choice but to upload the LoRA tuning model in Gemma 2B with tears in my eyes.
 
