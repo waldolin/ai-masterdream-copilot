@@ -109,7 +109,7 @@ For detailed instructions on how to train the model using LORA tuning, please re
                 `my_model.h5`
 - **dataset File**: `databricks-dolly-33.jsonl`
 
-I have successfully combined the LORA file with the model. This integration allows for enhanced fine-tuning of the model's performance, providing more accurate results in specific tasks.
+You can try with the lora with the model, and I have successfully combined the LORA file with the model. This integration allows for enhanced fine-tuning of the model's performance, providing more accurate results in specific tasks.  It will be released after winning AMD Pervasive AI Developer Contest.
 
 
 ## Use Our LoRA Tuning Model
