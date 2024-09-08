@@ -303,6 +303,7 @@ sudo reboot
 
 ```
 Install the apk and the requirements of Software packages before using AI Masterdream Copilot
+It will comeing soon.
 
 
 Last but not least,I must have Special thanks for AMD.
