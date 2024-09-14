@@ -13,6 +13,8 @@ Watch this tutorial to get started with the project:
 [Watch the  video](https://www.youtube.com/watch?v=8ONP7jlgQms&cc_load_policy=1&hl=en)
 (Click the picture or link)
 
+[Subscribe to release notifications by filling in your email.](https://docs.google.com/forms/d/e/1FAIpQLSeA_DWHYqXJ1Ei2foCT6tJETscw5NRNbEcvfgtUU0ws_Uc4QA/viewform?usp=sf_link)
+
 Due to the delay of shipping delivery and unexpectiable problem of power failures for three times and earthquake (rate: 5.7) on 8/15 near our places, the more videoes will upload as soon as possilbe! Due to the apps has not been launched for a long time, my Google Play developer account has been disabled by Google and the launch of AI MasterDream Copilot will be delayed.
 
 
