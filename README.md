@@ -238,10 +238,12 @@ Remember set -api on Comfyui by clicking the setting
 Click ENABLE Dev Mode Options
 
 ![comfyui guide](./images/24.png)
+![comfyui guide](./images/27.png)
 
 If you use the chinese version, it is like this.
 
 ![comfyui guide](./images/25.png)
+
 
 And use API format
 
