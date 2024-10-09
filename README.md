@@ -253,9 +253,11 @@ To use AI MasterDream copilot to have fun!
 
 If the version is conflict, it can not use API.
 
+![comfyui API ERROR](./images/26-1.png)
+
 It will like this picutre of BUG.
 
-Try to lower version or cancel update of start.bat without auto-update
+Try to lower version or cancel update of start.bat without auto-update or "echo"
 
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
@@ -276,10 +278,20 @@ If you do not install the basic requirements or you do not open the stable duffs
 ![NODE-RED guide](./images/7.png)
 
 What's the difference of AI MasterDream Copilot?
+
 As you can see it, the difference of generating pictures.
+We have design 40 styles transfer
+
 
 THE Whole designed Demo of AI MasterDream Copilot
 ![the demo](./images/demo.jpg) 
+This is a demo of arduino device of ESP32.
+
+![the demo update](./images/ESP32_pinoutV2.png) 
+
+The This is a demo update of arduino device of ESP32 pinout.
+
+
 ![the demo2](./images/620520_0.jpg) 
 ![the demo3](./images/620521_0.jpg) 
 
