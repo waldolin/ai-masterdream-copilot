@@ -257,7 +257,7 @@ If the version is conflict, it can not use API.
 
 It will like this picutre of BUG.
 
-Try to lower version or cancel update of start.bat without auto-update or "echo"
+Try to lower version or cancel update of start.bat without auto-update or "echo git pull" of comfyui.bat.
 
 
 and Install the Requirement.txt attached at [AI MasterDream Copilot's in Hackster](https://www.hackster.io/ai-master-dream-copilot/)
@@ -280,8 +280,10 @@ If you do not install the basic requirements or you do not open the stable duffs
 What's the difference of AI MasterDream Copilot?
 
 As you can see it, the difference of generating pictures.
-We have design 40 styles transfer
 
+We have design 40 styles transfer.
+
+![the style list](./images/28.png) 
 
 THE Whole designed Demo of AI MasterDream Copilot
 ![the demo](./images/demo.jpg) 
