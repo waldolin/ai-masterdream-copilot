@@ -17,9 +17,9 @@ Watch this tutorial to get started with the project:
 [Subscribe to release notifications by filling in your email.](https://docs.google.com/forms/d/e/1FAIpQLSeA_DWHYqXJ1Ei2foCT6tJETscw5NRNbEcvfgtUU0ws_Uc4QA/viewform?usp=sf_link)
 
 
-Due to a new release of SD3.5, we will have the delay of weeks to be perfect.  Due to lack of start-up costs and storage spaces to keep on developing, not winning a Awards of the Contest, it is out of our imagination to spend on this project.  We can start it on time, so We have no choices to delay the project released time until we can afford it.  
-we find some bugs of new release version of lm studio (0.3.5 B1), comfyUI, WSL, Rocm and so on...It is out of our imagination to be perfect without AMD support!
-WE NEED SUPPORT!!! We solve the pain points of users and services by relying on AI new technology.
+Due to a new release of SD3.5, we will have the delay of weeks to be perfect.  Due to lack of start-up costs and storage spaces to keep on developing, not winning a Awards of the Contest, it is out of our imagination to spend on this project.  We can not start it on time, so We have no choices to delay the project released time until we can afford it.  
+We find some bugs of new release version of lm studio (0.3.5 B1), comfyUI, WSL, Rocm and so on...It is out of our imagination to be perfect without AMD support!
+WE REALLY NEED SUPPORT!!! We solve the pain points of users and services by relying on AI new technology.  It will definitely be surprised after releasing!
 
 # History:
 Due to the delay of shipping delivery and unexpectiable problem of power failures for three times and earthquake (rate: 5.7) on 8/15 near our places, the more videoes will upload as soon as possilbe! Due to the apps account has not been launched for a long time, my Google Play developer account has been disabled by Google and the launch of AI MasterDream Copilot will be delayed. The app will upload  as soon as possilbe!
